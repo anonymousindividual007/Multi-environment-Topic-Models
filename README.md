@@ -1,3 +1,3 @@
-To run the MTM please refer to Multi_Environment_Topic_Models_(MTM).ipynb  
+To run the MTM please refer to Multi_Environment_Topic_Models_(MTM).ipynb.
 
-To run the causal inference experiment please see ...
+To run the causal inference experiment please refer to MTM_CI_with_Topic_Proportions.ipynb.
