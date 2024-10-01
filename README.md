@@ -1,3 +1,3 @@
-To run the MTM please access the .. file. All data to replicate the experiments with the MTM in the paper is available. 
+To run the MTM please access Multi_Environment_Topic_Models_(MTM).ipynb and run the cells. 
 
 To run the causal inference experiment please see ...
